@@ -108,6 +108,9 @@ importers:
       '@embroider/core':
         specifier: ^3.4.2
         version: 3.4.3
+      '@embroider/macros':
+        specifier: ^1.13.4
+        version: 1.13.4
       '@embroider/test-setup':
         specifier: ^3.0.1
         version: 3.0.3(@embroider/compat@3.4.3)(@embroider/core@3.4.3)(@embroider/webpack@3.2.1)
